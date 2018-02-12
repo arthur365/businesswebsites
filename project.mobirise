@@ -33,7 +33,7 @@
     },
     "favicon": "@PROJECT_PATH@/assets/images/20off-128x83.png",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<script type=\"text/javascript\">function add_chatinline(){var hccid=37501332;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatinline(); </script>",
     "siteUrl": "undefined",
     "versionFirst": "4.6.3",
     "uniqCompNum": 13,
