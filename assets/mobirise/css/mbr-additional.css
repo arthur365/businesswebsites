@@ -586,8 +586,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  opacity: 0 !important;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1795,8 +1795,8 @@ body {
   }
 }
 .cid-qJrFKF2glq {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #635a51;
 }
 .cid-qJrFKF2glq .mbr-slider .carousel-control {
@@ -1927,7 +1927,7 @@ body {
   color: #ffffff;
 }
 .cid-qJrJha2tLT .copyright > p {
-  text-align: left;
+  text-align: center;
 }
 .cid-qJrD4aPLmv .navbar {
   padding: .5rem 0;
