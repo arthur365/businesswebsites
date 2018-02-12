@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "business websites built for you ",
-    "currentPage": "page1.html",
+    "currentPage": "contact us.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -794,10 +794,10 @@
         }
       ]
     },
-    "page1.html": {
+    "contact us.html": {
       "settings": {
-        "meta_descr": "contact us",
-        "title": "Contact US",
+        "meta_descr": "CONTACT US",
+        "title": "CONTACT US",
         "order": 1
       },
       "components": [
