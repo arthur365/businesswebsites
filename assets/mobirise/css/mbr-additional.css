@@ -1764,11 +1764,14 @@ body {
 }
 .cid-qJrEnxjx6t {
   padding-top: 120px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/mbr-1496x1080.jpg");
 }
 .cid-qJrEnxjx6t .mbr-section-subtitle {
-  color: #cebfaf;
+  color: #ffffff;
+}
+.cid-qJrEnxjx6t H2 {
+  color: #efefef;
 }
 .cid-qJrTIH6qKY {
   padding-top: 15px;
