@@ -2979,6 +2979,64 @@ body {
   padding-bottom: 15px;
   background-image: url("../../../assets/images/mbr-1440x1080.jpg");
 }
+.cid-qJyDElI14a {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #177396, #ca2955);
+}
+.cid-qJyDElI14a .list-group-item {
+  padding: .75rem 3.25rem;
+}
+.cid-qJyDElI14a .plan {
+  word-break: break-word;
+  position: relative;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-qJyDElI14a .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+}
+.cid-qJyDElI14a .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-qJyDElI14a .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-qJyDElI14a .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-qJyDElI14a .plan-header,
+.cid-qJyDElI14a .plan-body {
+  background-color: #fff;
+}
+.cid-qJyDElI14a .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+.cid-qJyDElI14a .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 550px) {
+  .cid-qJyDElI14a .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-qJyDElI14a UL {
+  text-align: center;
+}
 .cid-qJyyN1NsIT {
   padding-top: 30px;
   padding-bottom: 30px;
