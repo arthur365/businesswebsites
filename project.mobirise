@@ -698,6 +698,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Business websites built for you<br><a href=\"https://arthur365.github.io/businesswebsites/contact%20us.html\" class=\"text-black\"><b><i>CONTACT US HERE</i></b></a><br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/cap-1145x688.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cap-1145x688-800x480.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Business websites built for you<br><a href=\"https://arthur365.github.io/businesswebsites/contact%20us.html\" class=\"text-black\"><i><b>CONTACT US HERE</b></i></a><br>",
                 "active": true
               }
             ]
