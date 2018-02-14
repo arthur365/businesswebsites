@@ -1611,6 +1611,16 @@ body {
 .cid-qJu8ymEuXA .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-qJu8ymEuXA P {
+  text-align: center;
+}
+.cid-qJu8ymEuXA H2 {
+  text-align: center;
+  color: #cebfaf;
+}
+.cid-qJu8ymEuXA DIV {
+  color: #ffffff;
+}
 .cid-qJrD4aPLmv .navbar {
   padding: .5rem 0;
   background: #26000a;
