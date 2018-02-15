@@ -1073,7 +1073,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "3",
             "socialFacebook": true,
             "postsNumber": "20",
             "socialGoogle": false,
