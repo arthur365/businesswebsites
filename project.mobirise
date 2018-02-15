@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "business websites built for you ",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -290,7 +290,7 @@
             },
             "H2": {
               "text-align": "center",
-              "color": "#cebfaf"
+              "color": "#ffffff"
             },
             "DIV": {
               "color": "#ffffff"
@@ -321,7 +321,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
+                "customStyle1": "display-5",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "<div>Small Business organisations We Build Website For You 2018</div>",
@@ -338,7 +338,7 @@
                 "showTitle": true,
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
+                "customStyle1": "display-5",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "VIDEO IMAGE SLIDE FOR YOUR BUSINESS Need",
@@ -359,7 +359,7 @@
                 "customStyle1": "display-5",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "WWW.YOURBUSINESS.CO.UK<br>A new website? or you’ve had your current website for more than 2 years and you know it needs a refresh and code updating? am here to help you.\r<div><br></div>",
+                "title": "WWW.YOURBUSINESS.CO.UK<br>A new website? or you’ve had your current website for more than 2 years and you know it needs a refresh and code updating? am here to help you.\n<div><br></div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
@@ -390,10 +390,10 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-5",
+                "customStyle1": "display-7",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<div><br></div><br><br><br><div>Small Business organisations Websites Built For You Here 2018</div><div>Prefer not to have big upfront payments? OK - we offer small monthly payments starting at only </div><br><div>£10 No VAT/week /with our Express packages\r</div><div>You get a dedicated, experienced website design and running in Google SEO as well as others SEO.&nbsp;</div>",
+                "title": "<div><br></div><br><br><br><div>Small Business organisations Websites Built For You Here 2018</div><div>Prefer not to have big upfront payments? OK - we offer small monthly payments starting at only </div><br><div>£10 No VAT/week /with our Express packages\n</div><div>You get a dedicated, experienced website design and running in Google SEO as well as others SEO.&nbsp;</div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"https://www.cognitoforms.com/SmallBusinessWebsite1/OrderNow\" target=\"_blank\">ORDER NOW</a>",
@@ -408,10 +408,10 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
+                "customStyle1": "display-5",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<div>Small Business organisations Websites <b>Built For You 2018</b></div><div><b>No long term contracts! Just</b></div><div><b>pay as you go! No VAT</b></div>",
+                "title": "<div>Small Business organisations Websites</div><div><b>Built For You 2018</b></div><div><b>No long term contracts! Just</b></div><div><b>pay as you go! No VAT</b></div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
@@ -852,7 +852,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#cebfaf\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#4f4943\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Professionally designed websites to suit your criteria and business needs,&nbsp;<br>Based in the Flintshire, UK, business websites built for you was established in 2004 by Arthur Cross 365 I.T on the belief that small businesses should be able to have high quality websites at affordable prices. Many web developers will charge small businesses thousands and thousands of pounds for an average basic website with little functions. We understand small businesses and that's why our standard is to deliver high quality websites on budget and on time.\n<div>\n</div><div>By using our extensive knowledge in web development and keeping to our standard, we have become one of the fastest growing web developers specialising in small to medium sized business websites. Over the last year, we have created &nbsp;websites for different businesses and non-profit organisations from all around . We create professionally designed websites to suit your criteria and business needs, ensuring you get what you want for your website. </div><br><div>With our vast experience, expertise and friendly customer service, we aim to be the web developer of choice for small businesses and organisations. Please&nbsp;<a href=\"https://arthur365.github.io/businesswebsites/page1.html\">Contact us Here</a>&nbsp;......</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#cebfaf\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#4f4943\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text>Professionally designed websites to suit your criteria and business needs,&nbsp;<br>Based in the Flintshire, UK, business websites built for you was established in 2004 by Arthur Cross 365 I.T on the belief that small businesses should be able to have high quality websites at affordable prices. Many web developers will charge small businesses thousands and thousands of pounds for an average basic website with little functions. We understand small businesses and that's why our standard is to deliver high quality websites on budget and on time.\n<div>\n</div><div>By using our extensive knowledge in web development and keeping to our standard, we have become one of the fastest growing web developers specialising in small to medium sized business websites. Over the last year, we have created &nbsp;websites for different businesses and non-profit organisations from all around . We create professionally designed websites to suit your criteria and business needs, ensuring you get what you want for your website. </div><br><div>With our vast experience, expertise and friendly customer service, we aim to be the web developer of choice for small businesses and organisations. Please&nbsp;<a href=\"https://arthur365.github.io/businesswebsites/page1.html\">Contact us Here</a>&nbsp;......</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_anchor": "content9-7",
           "_isUserblock": true,
           "_cid": "qJrTIH6qKY",
