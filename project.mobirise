@@ -522,6 +522,9 @@
                 "-webkit-transition": "0.2s background ease-in-out",
                 "transition": "0.2s background ease-in-out"
               }
+            },
+            ".mbr-gallery-item > div > span I": {
+              "color": "#7f1933"
             }
           },
           "_name": "gallery1",
@@ -598,7 +601,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Business websites built for you<br><a href=\"https://arthur365.github.io/businesswebsites/contact%20us.html\" class=\"text-black\"><i><b>CONTACT US HERE</b></i></a><br>",
+                "caption": "Business websites built for you<br><br>",
                 "active": false
               },
               {
@@ -610,7 +613,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-2-1618x1080-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Business websites built for you<br><a href=\"https://arthur365.github.io/businesswebsites/contact%20us.html\" class=\"text-black\"><i><b>CONTACT US HERE</b></i></a>",
+                "caption": "Business websites built for you<br><br>",
                 "active": false
               },
               {
@@ -622,7 +625,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Business websites built for you<br><a href=\"https://arthur365.github.io/businesswebsites/contact%20us.html\" class=\"text-black\"><i><b>CONTACT US HERE</b></i></a><br>",
+                "caption": "Business websites built for you<br><br>",
                 "active": false
               },
               {
@@ -634,7 +637,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Business websites built for you<br><a href=\"https://arthur365.github.io/businesswebsites/contact%20us.html\" class=\"text-black\"><b><i>CONTACT US HERE</i></b></a><br>",
+                "caption": "Business websites built for you<br><br>",
                 "active": false
               },
               {
@@ -646,7 +649,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cap-2-1145x688-800x591.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Business websites built for you<br><a href=\"https://arthur365.github.io/businesswebsites/contact%20us.html\" class=\"text-black\"><i><b>CONTACT US HERE</b></i></a><br>",
+                "caption": "Business websites built for you<br><br>",
                 "active": false
               },
               {
@@ -658,7 +661,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/j-clean-1565x781-800x547.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Business websites built for you<br><a href=\"https://arthur365.github.io/businesswebsites/contact%20us.html\" class=\"text-black\"><i><b>CONTACT US HERE</b></i></a><br>",
+                "caption": "Business websites built for you<br><b><i>CLICK HERE TO VIEW WEBSITE</i></b>",
                 "active": true
               }
             ]
