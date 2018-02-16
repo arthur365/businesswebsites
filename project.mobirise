@@ -661,7 +661,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/j-clean-1565x781-800x547.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Business websites built for you<br><b><i>CLICK HERE TO VIEW WEBSITE</i></b>",
+                "caption": "Business websites built for you<br><i><b>CLICK HERE TO VIEW WEBSITE</b></i>",
                 "active": true
               }
             ]
