@@ -1125,7 +1125,8 @@
               "color": "#ffffff"
             },
             "H1": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#e4d295"
             }
           },
           "_name": "header14",
