@@ -316,7 +316,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-3-1618x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -330,42 +330,6 @@
                 "contentAlign": "center",
                 "text": "As a webage designer i understand the needs of hard working business owners, so i have created the perfect custom built 'pay as you go websites' to suit your business that can grow as your business grows.\n<br>&nbsp;<a href=\"https://www.cognitoforms.com/SmallBusinessWebsite1/OrderNow\" target=\"_blank\"><b>Order Now</b></a>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1623x1080-800x532.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-5",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "VIDEO IMAGE SLIDE FOR YOUR BUSINESS Need",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1637x1080.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-5",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "WWW.YOURBUSINESS.CO.UK<br>A new website? or you’ve had your current website for more than 2 years and you know it needs a refresh and code updating? am here to help you.\n<div><br></div>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-9-1620x1080.jpg",
