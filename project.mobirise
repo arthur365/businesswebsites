@@ -638,7 +638,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Business websites built for you<br><br>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -649,8 +649,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cap-2-1145x688-800x591.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Business websites built for you<br><br>",
-                "active": false
+                "caption": "",
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -673,8 +673,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "<br><i><a href=\"https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html\" target=\"_blank\"><b>CLICK HERE TO VIEW WEBSITE</b></a></i>",
-                "active": true
+                "caption": "<i><b>C<a href=\"https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html\" target=\"_blank\">LICK HERE TO VIEW WEBSITE</a></b></i>",
+                "active": false
               }
             ]
           }
