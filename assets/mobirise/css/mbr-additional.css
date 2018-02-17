@@ -130,7 +130,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #7f1933 !important;
+  background-color: #55b4d4 !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -146,8 +146,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #7f1933 !important;
-  border-color: #7f1933 !important;
+  background-color: #55b4d4 !important;
+  border-color: #55b4d4 !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -155,14 +155,14 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #3f0c19 !important;
-  border-color: #3f0c19 !important;
+  background-color: #2d8fb0 !important;
+  border-color: #2d8fb0 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #3f0c19 !important;
-  border-color: #3f0c19 !important;
+  background-color: #2d8fb0 !important;
+  border-color: #2d8fb0 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -310,22 +310,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #2a0811;
-  color: #2a0811;
+  border-color: #277e9c;
+  color: #277e9c;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #7f1933;
-  border-color: #7f1933;
+  background-color: #55b4d4;
+  border-color: #55b4d4;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #7f1933 !important;
-  border-color: #7f1933 !important;
+  background-color: #55b4d4 !important;
+  border-color: #55b4d4 !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -462,7 +462,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #7f1933 !important;
+  color: #55b4d4 !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -487,7 +487,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #2a0811 !important;
+  color: #277e9c !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -545,8 +545,8 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #7f1933;
-  border-color: #7f1933;
+  background-color: #55b4d4;
+  border-color: #55b4d4;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -563,11 +563,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #7f1933;
+  color: #55b4d4;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #d93e66;
+  color: #f8fcfd;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -685,7 +685,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #7f1933;
+  border-color: #55b4d4;
   border-width: 3px;
 }
 ul,
@@ -773,7 +773,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #7f1933;
+  border-color: #55b4d4;
   color: #232323;
   cursor: pointer;
 }
@@ -784,7 +784,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #7f1933;
+  background: #55b4d4;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -792,11 +792,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #7f1933;
+  background: #55b4d4;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #7f1933;
+  color: #55b4d4;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -1643,45 +1643,45 @@ body {
     width: 100% !important;
   }
 }
-.cid-qJrFKF2glq {
+.cid-qJTSRYssMe {
   padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #4f4943;
+  padding-bottom: 30px;
+  background-color: #232323;
 }
-.cid-qJrFKF2glq .mbr-slider .carousel-control {
+.cid-qJTSRYssMe .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-qJrFKF2glq .mbr-slider .carousel-control-prev {
+.cid-qJTSRYssMe .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-qJrFKF2glq .mbr-slider .carousel-control-next {
+.cid-qJTSRYssMe .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-qJrFKF2glq .mbr-slider .modal-body .close {
+.cid-qJTSRYssMe .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-qJrFKF2glq .mbr-gallery-item > div::before {
+.cid-qJTSRYssMe .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
-  background: linear-gradient(to left, #554346, #e4d295) !important;
+  background: #26000a;
+  background: linear-gradient(to left, #26000a, #45505b) !important;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
 }
-.cid-qJrFKF2glq .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-qJTSRYssMe .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-qJrFKF2glq .mbr-gallery-item > div:hover:before {
+.cid-qJTSRYssMe .mbr-gallery-item > div:hover:before {
   opacity: 0.7 !important;
 }
-.cid-qJrFKF2glq .mbr-gallery-title {
+.cid-qJTSRYssMe .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -1691,7 +1691,7 @@ body {
   color: #fff;
   z-index: 2;
 }
-.cid-qJrFKF2glq .mbr-gallery-title:before {
+.cid-qJTSRYssMe .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -1699,14 +1699,11 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
-  background: linear-gradient(to left, #554346, #e4d295) !important;
+  background: #26000a !important;
+  background: linear-gradient(to left, #26000a, #45505b) !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-}
-.cid-qJrFKF2glq .mbr-gallery-item > div > span I {
-  color: #7f1933;
 }
 .cid-qJrD4aPLmv .navbar {
   padding: .5rem 0;
