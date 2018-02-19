@@ -515,7 +515,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/j-clean-1565x781-800x547.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html\" target=\"_blank\">CLICK HERE JAYS POWER WASH CLEANING SERVICES</a>",
+                "caption": "<a href=\"https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html\" target=\"_blank\"><b>CLICK HERE JAYS POWER WASH CLEANING SERVICES</b></a>",
                 "active": false
               },
               {
@@ -527,7 +527,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-2-1618x1080-800x533-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "CALL US 01244-638-388",
                 "active": false
               },
               {
@@ -539,7 +539,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-10-1620x1080-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "CALL US 01244-638-388",
                 "active": false
               },
               {
@@ -551,7 +551,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-1620x1080-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "CALL US 01244-638-388",
                 "active": false
               },
               {
@@ -575,7 +575,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-1611x1080-800x536.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "CALL US 01244-638-388",
                 "active": false
               },
               {
@@ -587,7 +587,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1618x1080-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "CALL US 01244-638-388",
                 "active": false
               },
               {
@@ -599,7 +599,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1618x1080-800x533-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "CALL US 01244-638-388",
                 "active": false
               }
             ]
