@@ -1736,10 +1736,14 @@ body {
 .cid-qK7uyyirsz {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #149dcc;
+  background-color: #0f7699;
 }
 .cid-qK7uyyirsz .mbr-section-subtitle {
   color: #767676;
+}
+.cid-qK7uyyirsz H2 {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-qJrD4aPLmv .navbar {
   padding: .5rem 0;
