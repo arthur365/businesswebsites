@@ -3012,9 +3012,9 @@ body {
   background-image: url("../../../assets/images/mbr-1440x1080.jpg");
 }
 .cid-qJyDElI14a {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #26000a, #767676);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
 }
 .cid-qJyDElI14a .list-group-item {
   padding: .75rem 3.25rem;
@@ -3070,10 +3070,10 @@ body {
   text-align: center;
 }
 .cid-qKnEusrZdo {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #cebfaf;
-  background: linear-gradient(#cebfaf, #877842);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+  background: linear-gradient(#ffffff, #ffffff);
 }
 .cid-qKnEusrZdo .carousel-control {
   background: #000;
