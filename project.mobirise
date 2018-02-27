@@ -320,8 +320,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-3-1618x1080.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-17-1620x1080.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -373,7 +373,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/th0pvgnayr-1455x900.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
