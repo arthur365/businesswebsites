@@ -321,7 +321,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-17-1620x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -334,7 +334,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "As a webage designer I understand the needs of hard working business owners, so I have created the perfect custom built 'pay as you go websites' to suit your business that can grow as your business grows.\n<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-danger\" href=\"https://arthur365.github.io/businesswebsites/contact%20us.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://arthur365.github.io/businesswebsites/contact%20us.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-15-1620x1080.jpg",
@@ -374,6 +374,24 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/th0pvgnayr-1455x900.jpg",
                 "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "<div><b style=\"font-size: 1.5rem;\">Built For You 2018</b><br></div><div><b>No long term contracts!</b></div><div><b>pay as you go!</b></div><div><b>No VAT</b></div>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-danger\" href=\"https://www.cognitoforms.com/SmallBusinessWebsite1/OrderNow\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\">C</span></a>  ",
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1623x1080.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
