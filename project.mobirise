@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "business websites built for you ",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -586,7 +586,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cap-5-1145x688-649x435.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "CAPRICORN CAR SALES IN DEESIDE",
+                "caption": "<a href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" target=\"_blank\"><b>CLICK HERE CAPRICORN CAR SALES IN DEESIDE</b></a>",
                 "active": true
               },
               {
