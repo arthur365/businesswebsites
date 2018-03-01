@@ -39,7 +39,7 @@
     },
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script type=\"text/javascript\">function add_chatinline(){var hccid=37501332;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatinline(); </script><script type=\"text/javascript\" src=\"//100widgets.com/js_data.php?id=129\"></script>",
+    "google-analytics": "<script type=\"text/javascript\">function add_chatinline(){var hccid=37501332;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatinline(); </script><script type=\"text/javascript\" src=\"http://radarurl.com/js/radarurl_widget.js\"></script><script type=\"text/javascript\">radarurl_call_radar_widgetv2({edition:\"Dynamic\",location:\"bottomleft\"})</script><noscript><a href=\"http://radarurl.com/\">RadarURL</a></noscript>",
     "siteUrl": "undefined",
     "versionFirst": "4.6.3",
     "uniqCompNum": 69,
