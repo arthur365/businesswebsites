@@ -1835,10 +1835,10 @@
               "text-align": "center"
             },
             "H2": {
-              "color": "#ffffff"
+              "color": "#e4d295"
             },
             ".mbr-section-subtitle B": {
-              "color": "#ffffff"
+              "color": "#e4d295"
             },
             "LABEL": {
               "color": "#ffffff"
