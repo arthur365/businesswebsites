@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "business websites built for you ",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,11 +39,11 @@
     },
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script type=\"text/javascript\">function add_chatinline(){var hccid=37501332;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatinline(); </script><!--Add the following script at the bottom of the web page (before </body></html>)-->\r\n<script type=\"text/javascript\">function add_chatwidget(){var hccid=37501332&WidgetStartPos=topleft&WidgetPosition=topleft;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://www.mylivechat.com/chatwidget.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatwidget();</script>",
+    "google-analytics": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.3",
     "uniqCompNum": 83,
-    "versionPublish": "4.6.3",
+    "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
